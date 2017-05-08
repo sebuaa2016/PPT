@@ -1,0 +1,81 @@
+
+本软件可以激活：
+Windows 10 所有版本
+Office 2010/2013/2016
+Windows 8/8.1 所有版
+Windows Server 2016 (Theorically)
+Windows 7 Professional/N/Enterprise/N 专业版、企业版
+Windows Vista Business/N/Enterprise/N 商业版、企业版
+Windows Server Technical Preview Build 9841/9860/9926 所有版本
+Windows Server 2008/2008R2 Standard/Datacenter/Enterprise 标准版/数据中心版/企业版
+Windows Server 2012/2012R2 Standard/Datacenter/Enterprise 标准版/数据中心版/企业版
+
+使用方法：
+Windows 7系统，需要安装 .NET 4.0，Windows 8/8.1/10以上系统则无需安装 .NET 4.0。
+1、以管理员身份运行“UnInstall_Service.cmd”清除服务。
+2、以管理员身份运行KMSpico_setup.exe安装。
+3、请耐心等待……，安装完即可自动激活。
+
+静默参数：
+KMSpico.exe /silent
+
+使用建议：
+★ 如果杀毒软件报毒，请把安装目录以下文件加入白名单或排除项；
+%ProgramFiles%\KMSpico\KMSELDI.exe, Service_KMS.exe, Autopico.exe 
+W10TP/8.1/2012R/ServerTP 系统的文件为   %WinDir%\SECOH-QAD.exe.
+
+★ 出错情况下，建议检查日志 文件
+Program Files -> KMSpico -> logs
+通常都是使用过批量许可密钥导致。
+
+
+1、关于永久激活
+问：这是永久激活的吗？
+答：当然，一直都是Windows 7/8/8.1/10所有版本。
+
+2、Pro WMC/核心版
+问：它只能激活30天或45天？
+答：KMS不可能真正的激活Pro WMC/Core，但可以模拟激活为Win8.1可能30天或45天。
+
+3、关于激活联网
+问：需要连接网络吗？
+答：不需要。
+
+
+============================================================
+
+
+                ╭═══════════════╮
+                ║           天诺时空           ║
+  ╭══════┤         www.zolsky.com       ├══════╮
+  ║            ║                              ║            ║
+  ║            ╰═══════════════╯            ║
+　║                                                          ║
+　║                                                          ║
+　║　声明：本程序由天诺时空的网友搜集整理，本站不承担技术及  ║
+  ║  版权问题。                                              ║
+  ║  说明：要获得更多的程序或最新版本请随时关注天诺时空      ║
+  ║                                                          ║
+  ║      本站花费巨资购买服务器为大家提供软件下载，          ║
+  ║       希望网友们能在下载软件的同时点击网站的广告         ║
+　║                                                          ║
+  ║    ╭───────────────────────╮    ║
+  ╰══┤     喜欢天诺时空就请每次浏览网站时点击广告   ├══╯
+        ╰───────────────────────╯
+
+
+咨询合作：
+
+QQ：2277688038　　     E-Mail：zolsky@126.com
+
+
+===============
+附：
+根据二○○二年一月一日《计算机软件保护条例》规定：为了学习和
+研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软
+件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬!
+
+鉴于此，也希望大家按此说明研究软件!谢谢
+============================================================
+
+
